@@ -1,0 +1,7 @@
+pip install pandas
+pip install scikit-learn
+pip install numpy
+pip install streamlit
+
+TO RUN THE PROJECT
+streamlit run app.py
